@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi there, I'm Cedric 👋
 
-<!--
-**damian-sketch/damian-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Frontend Engineer and Author who's always actively pursuing information in this field.
 
-Here are some ideas to get you started:
+* 🕸️ [Portfolio](https://damian-sketch.github.io/Portfolio)
+* 👨‍💼 QA Automation Engineer @ Trilogy
+* 👨‍💼 Frontend Engineer @ Moringa School
+* 📚 Author at [Medium](https://cedric21.medium.com/)
+* 💻 Open-source contributor
+* ⚽ I love soccer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=damian-sketch&color=blueviolet&style=plastic)
+
+## Skills
+
+* JavaScript
+* React
+* Redux
+* Python
+* HTML & CSS
+* SQL
+* NOSQL
+* AWS, HEROKU, NETLIFY
+
+- 👯 I’m looking to collaborate on [TEXTR](https://github.com/damian-sketch/textr)
+- 📫 How to reach me: 
+    * [Linkedin](https://www.linkedin.com/in/cedric-muuo-7625861aa/)
+    * [Mail](mailto:cedricdamian19@gmail.com)     
+
+
