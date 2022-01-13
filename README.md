@@ -3,8 +3,8 @@
 ## I'm a Frontend Engineer, Open-Source Contributor, and Author who's always actively pursuing information in this field.
 
 * 🕸️ [Portfolio](https://damian-sketch.github.io/Portfolio)
-* 👨‍💼 QA Automation Engineer @ Trilogy
-* 👨‍💼 Frontend Engineer @ Moringa School
+* 👨‍💼 QA Automation Engineer
+* 👨‍💼 Frontend Engineer
 * 📚 Author at [Medium](https://cedric21.medium.com/)
 * 💻 Open-source contributor
 * ⚽ I love soccer
@@ -15,6 +15,9 @@
 
 * JavaScript
 * React
+* Cypress
+* Selenium
+* React-testing Library
 * Redux
 * Python
 * HTML & CSS
