@@ -7,7 +7,7 @@
 * 👨‍💼 Frontend Engineer
 * 📚 Author at [Medium](https://cedric21.medium.com/)
 * 💻 Open-source contributor
-* ⚽ I love soccer
+* ⚽ I love football
 
 ![](https://komarev.com/ghpvc/?username=damian-sketch&color=blueviolet&style=plastic)
 
