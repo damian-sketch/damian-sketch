@@ -1,6 +1,6 @@
 ### Hi there, I'm Cedric 👋
 
-## I'm a Frontend Engineer, Open-Source Contributor, and Author who's always actively pursuing information in this field.
+## I'm a QA Engineer, Open-Source Contributor, and Author who's always actively pursuing information in this field.
 
 * 🕸️ [Portfolio](https://damian-sketch.github.io/Portfolio)
 * 👨‍💼 QA Automation Engineer
