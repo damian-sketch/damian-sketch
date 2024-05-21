@@ -4,7 +4,7 @@
 
 * 🕸️ [Portfolio](https://damian-sketch.github.io/Portfolio)
 * 👨‍💼 QA Automation Engineer
-* 👨‍💼 Frontend Engineer
+* 👨‍💼 I dabble in writing python code too
 * 📚 Author at [Medium](https://cedric21.medium.com/)
 * 💻 Open-source contributor
 * ⚽ I love football
